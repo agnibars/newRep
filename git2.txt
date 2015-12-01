@@ -12,7 +12,7 @@ int main()
    printf("Enter first string\n");
    gets(a);
  
-   printf("Enter second string\n");
+   //printf("Enter second string\n");
    gets(b);
  
    flag = check_anagram(a, b);
