@@ -23,7 +23,7 @@ int main()
       printf("\"%s\" and \"%s\" are not anagrams.\n", a, b);
  
    return 0;
-}
+}widelec
  
 int check_anagram(char a[], char b[])
 {
