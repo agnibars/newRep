@@ -7,7 +7,7 @@ int main()
    char text[1000], blank[1000];
    int c = 0, d = 0;
  
-   printf("Enter some text\n");
+   //printf("Enter some text\n");
    gets(text);
  
    while (text[c] != '\0') {
