@@ -4,6 +4,7 @@
 #include <stdio.h>
  
 int toString(char []);
+int cos;
  
 int main()
 {
