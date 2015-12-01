@@ -29,7 +29,7 @@ int main()
  
    blank[d] = '\0';
  
-   printf("Text after removing blanks\n%s\n", blank);
+  // printf("Text after removing blanks\n%s\n", blank);
  
    return 0;
 }
